@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "MediumItalic";
+  src: url(/assets/font/static/NunitoSans_7pt-ExtraLight.ttf);
+}
+@font-face {
+  font-family: "BoldItalic";
+  src: url(/assets/font/static/NunitoSans_10pt-BoldItalic.ttf);
+}
+@font-face {
+  font-family: "LightItalic";
+  src: url(/assets/font/static/NunitoSans_7pt-LightItalic.ttf);
+}
